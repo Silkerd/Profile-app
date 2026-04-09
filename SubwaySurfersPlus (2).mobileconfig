@@ -15,7 +15,7 @@
       <key>PayloadUUID</key>
       <string>b3604b48-200e-4b1c-8440-e48a8054b179</string>
       <key>Label</key>
-      <string>Clash of Clans Ultra</string>
+      <string>PokemongGO Spoof</string>
       <key>URL</key>
       <string>https://BombTweak.com</string>
       <key>Icon</key>
@@ -27,7 +27,7 @@
     </dict>
   </array>
   <key>PayloadDisplayName</key>
-  <string>Clash of Clans Ultra</string>
+  <string>PokemonGO Spoof</string>
   <key>PayloadIdentifier</key>
   <string>com.subwaysurfersplus.app</string>
   <key>PayloadUUID</key>
