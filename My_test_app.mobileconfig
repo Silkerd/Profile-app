@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>PayloadDisplayName</key>
-    <string>Pokémon GO Web Clip</string>
+    <string>PokemonGo++</string>
     <key>PayloadIdentifier</key>
     <string>com.silker.webclip.profile</string>
     <key>PayloadType</key>
@@ -27,7 +27,7 @@
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>PayloadDisplayName</key>
-            <string>Pokémon GO</string>
+            <string>PokemonGo++</string>
 
             <key>Label</key>
             <string>Pokémon GO</string>
