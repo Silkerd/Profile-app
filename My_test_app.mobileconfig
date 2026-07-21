@@ -9,7 +9,7 @@
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>REPLACE-WITH-UUID-1</string>
+    <string>eaa8e929-756c-4142-a184-0826ef856d15</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadRemovalDisallowed</key>
@@ -23,7 +23,7 @@
             <key>PayloadIdentifier</key>
             <string>com.silker.webclip.payload</string>
             <key>PayloadUUID</key>
-            <string>REPLACE-WITH-UUID-2</string>
+            <string>7265566d-d777-444a-8815-c19aea58e2b0</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>PayloadDisplayName</key>
