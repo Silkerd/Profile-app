@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>PayloadDisplayName</key>
-    <string>Test Profile</string>
+    <string>PGSharp</string>
     <key>PayloadIdentifier</key>
     <string>com.silker.webclip.testprofile</string>
     <key>PayloadType</key>
@@ -27,10 +27,10 @@
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>PayloadDisplayName</key>
-            <string>Test Profile</string>
+            <string>PGSharp</string>
 
             <key>Label</key>
-            <string>Test Profile</string>
+            <string>PGSharp</string>
             <key>URL</key>
             <string>https://example.com</string>
             <key>FullScreen</key>
